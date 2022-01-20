@@ -13,3 +13,6 @@ This asset recalls the work of Satoshi Nakamoto and the people who divulge about
 :::::
 
 ![image](https://user-images.githubusercontent.com/96759911/149959151-ae102ca0-7d5c-44c9-a51a-fd01bfc91959.png)
+
+
+::::: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 :::::
